@@ -84,8 +84,7 @@
 			children = (
 				712362B0219E89210080C42D /* AppDelegate.h */,
 				712362B1219E89210080C42D /* AppDelegate.m */,
-				712362B3219E89210080C42D /* ViewController.h */,
-				712362B4219E89210080C42D /* ViewController.m */,
+				712362CC219E8D0F0080C42D /* Move */,
 				712362B6219E89210080C42D /* Main.storyboard */,
 				712362B9219E89210080C42D /* Assets.xcassets */,
 				712362BB219E89210080C42D /* LaunchScreen.storyboard */,
@@ -93,6 +92,15 @@
 				712362BF219E89210080C42D /* main.m */,
 			);
 			path = XcodeGit;
+			sourceTree = "<group>";
+		};
+		712362CC219E8D0F0080C42D /* Move */ = {
+			isa = PBXGroup;
+			children = (
+				712362B3219E89210080C42D /* ViewController.h */,
+				712362B4219E89210080C42D /* ViewController.m */,
+			);
+			path = Move;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
