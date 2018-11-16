@@ -14,7 +14,6 @@
 		712362BA219E89210080C42D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 712362B9219E89210080C42D /* Assets.xcassets */; };
 		712362BD219E89210080C42D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 712362BB219E89210080C42D /* LaunchScreen.storyboard */; };
 		712362C0219E89210080C42D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 712362BF219E89210080C42D /* main.m */; };
-		712362CB219E8CA70080C42D /* AddNew.m in Sources */ = {isa = PBXBuildFile; fileRef = 712362CA219E8CA70080C42D /* AddNew.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,8 +30,6 @@
 		712362BC219E89210080C42D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		712362BE219E89210080C42D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		712362BF219E89210080C42D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		712362C9219E8CA70080C42D /* AddNew.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AddNew.h; sourceTree = "<group>"; };
-		712362CA219E8CA70080C42D /* AddNew.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AddNew.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,8 +86,6 @@
 				712362B1219E89210080C42D /* AppDelegate.m */,
 				712362B3219E89210080C42D /* ViewController.h */,
 				712362B4219E89210080C42D /* ViewController.m */,
-				712362C9219E8CA70080C42D /* AddNew.h */,
-				712362CA219E8CA70080C42D /* AddNew.m */,
 				712362B6219E89210080C42D /* Main.storyboard */,
 				712362B9219E89210080C42D /* Assets.xcassets */,
 				712362BB219E89210080C42D /* LaunchScreen.storyboard */,
@@ -198,7 +193,6 @@
 			files = (
 				712362B5219E89210080C42D /* ViewController.m in Sources */,
 				712362C0219E89210080C42D /* main.m in Sources */,
-				712362CB219E8CA70080C42D /* AddNew.m in Sources */,
 				712362B2219E89210080C42D /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
