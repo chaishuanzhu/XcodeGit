@@ -6,6 +6,7 @@ target 'XcodeGit' do
   # use_frameworks!
 
 pod 'AFNetworking'
+pod 'SDWebImage'
   # Pods for XcodeGit
 
 end
